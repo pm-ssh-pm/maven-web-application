@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: rcontainername
-        image: mavenwebapplicationamechandra:1
+        image: mrrowdy/chandramvn:10
         ports:
         - containerPort: 8080
 ---
