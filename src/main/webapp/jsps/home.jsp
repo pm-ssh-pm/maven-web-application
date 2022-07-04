@@ -4,13 +4,13 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>MithunTechnologies- Home Page</title>
-<link href="images/mithunlogo.jpg" rel="icon">
+<title>dark manapillodu.co- Home Page</title>
+<link href="images/" rel="icon">
 </head>
 </head>
 <body>
 <h1 align="center">welcome to the dark world </h1>
-<h1 align="center"> dark world presented by the inviz ai solutios</h1>
+<h1 align="center"> dark world present the manapollodu.com </h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
@@ -36,7 +36,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 	<span style="font-weight: bold;">
 		
 		<br>
-		<a href="mailto:inviz-ai@gmail.com">dark world</a>
+		<a href="mailto:manapillodu@gmail.com">dark world</a>
 	</span>
 </div>
 <hr>
